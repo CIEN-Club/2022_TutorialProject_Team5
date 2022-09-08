@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677ba6fa-09b6-47d1-9421-9602102d3b30" name="Changes" comment="재재업로드" />
+    <list default="true" id="677ba6fa-09b6-47d1-9421-9602102d3b30" name="Changes" comment="재재재업로드 16:9 Aspect">
+      <change beforePath="$PROJECT_DIR$/Build/2022_TutorialProject_Team5.data" beforeDir="false" afterPath="$PROJECT_DIR$/Build/2022_TutorialProject_Team5.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662634734237</updated>
       <workItem from="1662634743313" duration="1911000" />
-      <workItem from="1662640459919" duration="443000" />
+      <workItem from="1662640459919" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="빌드 파일 업로드">
       <created>1662634791259</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662640511898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="재재재업로드 16:9 Aspect">
+      <created>1662641097211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641097211</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +105,7 @@
     <MESSAGE value="기존 파일 삭제" />
     <MESSAGE value="WebGL 재업로드" />
     <MESSAGE value="재재업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="재재업로드" />
+    <MESSAGE value="재재재업로드 16:9 Aspect" />
+    <option name="LAST_COMMIT_MESSAGE" value="재재재업로드 16:9 Aspect" />
   </component>
 </project>
